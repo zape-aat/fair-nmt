@@ -8,4 +8,10 @@
 
 ## 模型
 
-繁體 -> 英文 [fair-nmt-zh_hant-en](https://huggingface.co/aarontseng/fair-nmt-zh_hant-en) 
+繁體 -> 英文
+
+[fair-nmt-zh_hant-en](https://huggingface.co/aarontseng/fair-nmt-zh_hant-en)
+
+英文 -> 繁體
+
+[fair-nmt-en-zh_hant](https://huggingface.co/aarontseng/fair-nmt-en-zh_hant) 
