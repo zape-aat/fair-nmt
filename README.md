@@ -8,11 +8,11 @@ Fair-NMT are translation models based on Opus-MT. By fine-tuning the original mo
 - MIT licensed.
   
 ## Models
-Traditional Chinese to English:
+Traditional Chinese to English:  
 [fair-nmt-zh_hant-en](https://huggingface.co/aarontseng/fair-nmt-zh_hant-en)
 
-English to Traditional Chinese:
+English to Traditional Chinese:  
 [fair-nmt-en-zh_hant](https://huggingface.co/aarontseng/fair-nmt-en-zh_hant) 
 
-English to Simplified Chinese:
+English to Simplified Chinese:  
 [fair-nmt-en-zh](https://huggingface.co/aarontseng/fair-nmt-en-zh)
