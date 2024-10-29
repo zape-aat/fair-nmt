@@ -1,21 +1,18 @@
 # fair-nmt
 
-## 介紹
+Fair-NMT are translation models based on Opus-MT. By fine-tuning the original models, we can achieve better translation performance.
 
-- 基於 [Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) 的翻譯模型。
-- 輕量，配合 [ctranslate2](https://github.com/OpenNMT/CTranslate2) 使用，速度快。
-- MIT
-
-## 模型
-
-繁體 -> 英文
-
+## Introduction
+- Translation models based on Opus-MT.
+- Lightweight and fast when used with ctranslate2.
+- MIT licensed.
+  
+## Models
+Traditional Chinese to English:
 [fair-nmt-zh_hant-en](https://huggingface.co/aarontseng/fair-nmt-zh_hant-en)
 
-英文 -> 繁體
-
+English to Traditional Chinese:
 [fair-nmt-en-zh_hant](https://huggingface.co/aarontseng/fair-nmt-en-zh_hant) 
 
-英文 -> 簡體
-
-[fair-nmt-en-zh](https://huggingface.co/aarontseng/fair-nmt-en-zh) 
+English to Simplified Chinese:
+[fair-nmt-en-zh](https://huggingface.co/aarontseng/fair-nmt-en-zh)
